@@ -1,3 +1,4 @@
+/*
 Market Survey – TCS Codevita
 
 Market Research firm is carrying out a survey regarding popular brands. The person who has the best pulse of the survey population will be rewarded by the firm. The survey comprises of N questions was taken by M participants, not at the same time but one after the other. Clearly, there is no correct answer since it is a survey of brands. Each question can have only four options (1,2,3,4). Most expected answers to different questions is used as a template to measure brand popularity. Think of this as a default answer sheet where the question paper is the Survey.
@@ -82,7 +83,8 @@ Output:
 0
 2 4
 
-//This code is Contributed by Abi Karthick
+*/
+
 #include<stdio.h>
 #include <stdlib.h>
 
