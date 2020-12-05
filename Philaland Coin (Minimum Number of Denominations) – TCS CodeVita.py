@@ -1,3 +1,4 @@
+"""
 Minimum Number of Denominations TCS CodeVita solution in python
 
 In a shop, the cost of products ranges from 1 to N (both inclusive). The program must accept the value of N and print the minimum of denominations of coins to purchase any product ranging from 1 to N as the output.
@@ -56,6 +57,7 @@ Output:
 Minimum Number of Denominations Program in Python
 
 Philaland Coin Program in Python
+"""
 
 Python
 from math import log2, floor 
