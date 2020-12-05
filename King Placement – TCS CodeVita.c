@@ -1,3 +1,4 @@
+/*
 King Placement – TCS CodeVita: This is a typical chess game where your opponent first places a random number of Knights, Rooks, Bishops and Queens on an NxN chessboard and then you have to place your king safely on the chessboard such that it should not be under attack by any piece.
 
 The program must accept an integer N representing the size of a chessboard and the indices of K Knights, R Rooks, B Bishops and Q Queens as the input. The program must print the number of squares on the chessboard such that your King is not attacked by any of your opponent’s pieces.
@@ -113,6 +114,8 @@ Input:
 
 Output:
 2
+
+*/
 
 void R(int r,int c,char a[r][c],int i,int j){
     int i1=i+1,j1=j;
