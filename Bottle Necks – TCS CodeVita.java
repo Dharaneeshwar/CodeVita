@@ -6,7 +6,7 @@ The program must accept the radii of N bottles as the input. Once a bottle is en
 The program must print the minimum number of visible bottles based on the given conditions.
 
 Note: Optimize your logic to avoid Time Limit Exceed error.
-
+ Note
 Boundary Condition(s):
 1 <= N <= 10^5
 1 <= Radius of each bottle <= 10^18
